@@ -1,4 +1,8 @@
-# -Leverage-Sentiment-Analysis
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/72180173/137077376-9e97586a-8bf0-479d-b2c6-1692c53c226f.png" width=300px>
+ </p>
+
+  # -Leverage-Sentiment-Analysis
 
 
 ## Knowledge of the customer is a powerful asset :
